@@ -15,3 +15,12 @@
 
 
 技术栈：Spring Boot、MySQL、MyBatis-plus、Redis
+
+
+启动 SpringBoot 项目：(前端调试阶段可不执行 1）
+
+1. 运行 ResearchAssistantApplication
+
+2. 进入前端：cd frontend
+
+3. 在终端启动前端：npm run dev
